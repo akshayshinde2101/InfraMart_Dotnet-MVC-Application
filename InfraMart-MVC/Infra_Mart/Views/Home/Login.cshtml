@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true" />
+<center className="center">
+    <header>
+        <h1>Welcome to InfraMart</h1>
+    </header>
+    <main>
+        <form className="form_class" method="post" action="/Home/Login">
+            <div class="form-outline mb-4">
+                <label class="form-label" for="form2Example1">Email address</label><br />
+                <input type="text" id="email" name="email" />
+            </div>
+
+            <!-- Password input -->
+            <div class="form-outline mb-4">
+                <label class="form-label" for="form2Example2">Password</label><br />
+                <input type="password" id="password" name="password" />
+            </div>
+            <button className="submit_class" id="submitbutton"
+                    type="submit">
+                Login
+            </button>
+
+            <div className="info_div">
+                <p>
+                    Register If Do Not Have Account
+                    <a href="/Home/SignUp">register</a>
+                </p>
+            </div>
+
+            <div className="info_div">
+                <p>
+
+                    <a href="/ForgotPassword/Forgotpass">ForgotPassword</a>
+                </p>
+            </div>
+            
+        </form>
+    </main>
+</center>

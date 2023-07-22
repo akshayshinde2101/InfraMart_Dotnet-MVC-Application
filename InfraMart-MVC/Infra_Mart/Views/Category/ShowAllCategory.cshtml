@@ -1,0 +1,43 @@
+﻿@{
+    
+}
+
+
+<style>
+    .body2 {
+        font: bold;
+    }
+</style>
+
+<body class="body2">
+    <form action="/Products/AddToCart">
+        <table class="table">
+            <tr>
+                <th>Category-ID</th>
+                <th>Category-Name</th>
+                <th>Action</th>
+               
+
+            </tr>
+            <tbody>
+                @{
+                    List<Category> catlist = ViewData["catlist"] as List<Category>;
+                    foreach (Category cat in catlist)
+                    {
+
+                        <tr>
+                            <td>@cat.CategoryId</td>
+                            <td>@cat.CategoryName</td>
+                            <td>
+                                <p><a href="DeleteCategory/@cat.CategoryId">DELETE</a></p>
+                            </td>
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+        <a href="AddCategory">AddNewCategory</a>
+
+    </form>
+</body>

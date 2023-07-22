@@ -1,0 +1,70 @@
+﻿@using Newtonsoft.Json;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@*@{
+    var user = JsonConvert.DeserializeObject<User>(HttpContext.Session.GetString("LoginUser"));
+}*@
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<body class="body2">
+    <form method="post" action="">
+        <table class="table">
+            <tr>
+                <th>ProductID</th>
+                <th>Prdoduct Name</th>
+                <th>Product Description</th>
+                <th>Product Price</th>
+                <th>Product Unit</th>
+                <th>Product Images</th>
+                <th>Option</th>
+            </tr>
+            <tbody>
+                @{
+                    List<Product> Prodlist = ViewData["products"] as List<Product>;
+                    foreach (Product prod in Prodlist)
+                    {
+                        <tr>
+                            <td>@prod.ProductId</td>
+                            <td>@prod.ProductName</td>
+                            <td>@prod.ProductDescription</td>
+                            <td>@prod.ProductPrice</td>
+                            <td>@prod.ProductUnit</td>
+                            <td>
+                                <img src="~/Images/@prod.ProductImage" width="200" height="100" asp-append-version="true">
+                            </td>
+                            <td> <button type="button" onclick="deleteproduct(@prod.ProductId)">Delete</button></td>
+
+                        </tr>
+
+                    }
+                }
+            </tbody>
+        </table>
+
+    </form>
+
+</body>
+<script type="text/javascript">
+    function deleteproduct(id) {
+
+        let productId = {
+
+            ProductId: id
+        };
+        console.log(productId);
+        let promise1 = axios.post("/Admin/RemovePrdouct", productId);
+        promise1.then((response) => {
+            const result = response.data;
+            if (result != null) {
+               console.log(result);
+               window.location.href="/Admin/ViewAllAdmin";
+
+            }
+        });
+    }
+
+</script>

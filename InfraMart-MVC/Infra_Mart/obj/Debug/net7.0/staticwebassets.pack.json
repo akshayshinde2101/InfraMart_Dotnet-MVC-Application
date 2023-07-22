@@ -1,0 +1,369 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Infra_Mart.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Infra_Mart.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\073c49c7-5e93-461d-b595-675672d5d3f3-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\073c49c7-5e93-461d-b595-675672d5d3f3-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\0d6fbf1e-4fea-46fe-89da-d3ee7b2c4556-Chaitali Modern 20190727_205028.jpg",
+      "PackagePath": "staticwebassets\\Images\\0d6fbf1e-4fea-46fe-89da-d3ee7b2c4556-Chaitali Modern 20190727_205028.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\1d774287-583c-48e1-8de6-804c2eca4d91-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\1d774287-583c-48e1-8de6-804c2eca4d91-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\40970ff9-874e-4e52-a9a4-d4e777a1c4cb-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\40970ff9-874e-4e52-a9a4-d4e777a1c4cb-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\463ed2eb-545d-4723-a614-ce9b0c75a976-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\463ed2eb-545d-4723-a614-ce9b0c75a976-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\4a763ea0-b4c2-4dbf-a584-f7811c3c2c58-ceppcgacc0001.png",
+      "PackagePath": "staticwebassets\\Images\\4a763ea0-b4c2-4dbf-a584-f7811c3c2c58-ceppcgacc0001.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\5026b367-5170-40a5-b61f-dc17d55d3a31-Chaitali Modern 20190727_205028.jpg",
+      "PackagePath": "staticwebassets\\Images\\5026b367-5170-40a5-b61f-dc17d55d3a31-Chaitali Modern 20190727_205028.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\548ca6c9-d123-41f5-a749-d5f11469e746-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\548ca6c9-d123-41f5-a749-d5f11469e746-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\5bac023f-ffe3-4b84-94c3-3d4ac866f239-ceppcgacc0001.png",
+      "PackagePath": "staticwebassets\\Images\\5bac023f-ffe3-4b84-94c3-3d4ac866f239-ceppcgacc0001.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\784c1092-4700-4cac-b6bb-1f78ee9136b1-Babasaheb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\784c1092-4700-4cac-b6bb-1f78ee9136b1-Babasaheb.jpeg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\79b418c9-f5c8-4788-a09e-c483333d0f03-Chaitali Modern 20190727_205028.jpg",
+      "PackagePath": "staticwebassets\\Images\\79b418c9-f5c8-4788-a09e-c483333d0f03-Chaitali Modern 20190727_205028.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\8764003e-6fd9-4100-8249-1ac7662d72d6-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\8764003e-6fd9-4100-8249-1ac7662d72d6-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\8da151ab-e411-4d78-bf9e-cd3d96b3f7c6-Babasaheb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\8da151ab-e411-4d78-bf9e-cd3d96b3f7c6-Babasaheb.jpeg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\a5ef9cc0-996d-4a6e-b414-f55f1f6c2695-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\a5ef9cc0-996d-4a6e-b414-f55f1f6c2695-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\ad5d0882-41bf-44f6-a4eb-ff293978bc86-ceppcgacc0001.png",
+      "PackagePath": "staticwebassets\\Images\\ad5d0882-41bf-44f6-a4eb-ff293978bc86-ceppcgacc0001.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\b4478209-78a6-4a7a-826c-7e8be49b61c8-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\b4478209-78a6-4a7a-826c-7e8be49b61c8-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\ba6f1160-8e46-427f-b302-742d88cb438f-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\ba6f1160-8e46-427f-b302-742d88cb438f-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\bafc8040-848f-460f-8be0-e8793a8d2cc3-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\bafc8040-848f-460f-8be0-e8793a8d2cc3-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\c81a3f0b-2798-4e8e-965b-067a89672157-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\c81a3f0b-2798-4e8e-965b-067a89672157-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\c8aad97e-08ca-4eb0-b9c1-26e433031ee7-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\c8aad97e-08ca-4eb0-b9c1-26e433031ee7-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\cc46e7fb-8b7a-42d7-af59-5a89f719b210-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\cc46e7fb-8b7a-42d7-af59-5a89f719b210-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\eb6ebe54-c547-4fc9-8516-d0e3eef97ecf-Babasaheb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\eb6ebe54-c547-4fc9-8516-d0e3eef97ecf-Babasaheb.jpeg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\ef8372a4-fdfc-45f3-ac25-6a6d9e1a9c4f-birla002.png",
+      "PackagePath": "staticwebassets\\Images\\ef8372a4-fdfc-45f3-ac25-6a6d9e1a9c4f-birla002.png"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\fa18ebe5-12ab-4b6c-972f-230380105a05-UltratechCement.jpg",
+      "PackagePath": "staticwebassets\\Images\\fa18ebe5-12ab-4b6c-972f-230380105a05-UltratechCement.jpg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\Images\\fa1900d5-d257-450d-8c7c-826930a439dd-Babasaheb.jpeg",
+      "PackagePath": "staticwebassets\\Images\\fa1900d5-d257-450d-8c7c-826930a439dd-Babasaheb.jpeg"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\PG-DAC @AKSHAY\\#Dotnet_InfraMart\\InfraMart-MVC\\Infra_Mart\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Infra_Mart.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Infra_Mart.props",
+      "PackagePath": "build\\Infra_Mart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Infra_Mart.props",
+      "PackagePath": "buildMultiTargeting\\Infra_Mart.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Infra_Mart.props",
+      "PackagePath": "buildTransitive\\Infra_Mart.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

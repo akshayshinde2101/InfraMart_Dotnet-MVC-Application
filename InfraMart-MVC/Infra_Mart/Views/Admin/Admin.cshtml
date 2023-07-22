@@ -1,0 +1,18 @@
+﻿@using Microsoft.AspNetCore.Http
+@{
+    ViewData["Title"] = "Admin";
+}
+
+@*@{
+    User LoginUser = HttpContext.Session.GetString("LoginUser");
+}*@
+<link rel="stylesheet" href="~/css/Admin.css" asp-append-version="true" />
+<center>
+    <div id="admindiv">
+              <a  id="link1" href="/Product/AddProduct">Add-NewProduct</a><br />
+              <a id="link1" href="/Admin/ViewAllAdmin">Product-Management</a><br />
+              <a  id="link2" href="/Category/ShowAllCategory">Category-Management</a><br />
+              <a  id="link3" href="AddUser">Create-User</a><br />
+              <a  id="link4" href="/Home/ShowAllUser">User-Management</a><br />
+         </div>
+</center>

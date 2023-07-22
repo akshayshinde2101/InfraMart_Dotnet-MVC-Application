@@ -1,0 +1,101 @@
+﻿@model Infra_Mart.Models.User
+
+@{
+    ViewData["Title"] = "AddUser";
+}
+<link rel="stylesheet" href="~/css/AddUser.css asp-append-version="true" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+</head>
+
+<center>
+    <div class="row" id="adduserdivcenter">
+        <div class="col-md-4">
+            <form id="adduser" novalidate class="needs-validation">
+                <div class="form-group">
+                    <div class="new iconBox">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                    </div>
+                    FirstName:<input type="text" class="form-control" id="firstname" />
+                </div>
+                <div class="form-group">
+                    <div class="new iconBox">
+                        <i class="fa fa-user" aria-hidden="true"></i>
+                    </div>
+                    LastName:<input type="text" class="form-control" id="lastname" />
+                </div>
+                <div class="form-group">
+                    <div class="fl iconBox">
+                        <i class="fa fa-envelope" aria-hidden="true"></i>
+                    </div>
+                    Email:<input type="email" class="form-control" id="email" />
+                </div>
+
+                <div class="form-group">
+                    <div class="fl iconBox">
+                        <i class="fa fa-key" aria-hidden="true"></i>
+                    </div>
+                    Password:<input type="text" class="form-control" id="password" />
+                </div>
+
+
+                <div class="form-group">
+                    <div class="fl iconBox">
+                        <i class="fas fa-user-cog" aria-hidden="true"></i>
+                    </div>
+                    Role:<select id="role">
+                        <option value="admin">Admin</option>
+                        <option value="manager">Manager</option>
+                        <option value="user">User</option>
+                    </select>
+                </div>
+
+
+                <div class="form-group" id="addbtn">
+                    <button type="submit" class="btn btn-primary" onclick="addUser()">Add</button>
+
+                    <a href="/Admin/ShowAllUser">ViewAllUsers</a>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</center>
+
+
+@*@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}*@
+<script type="text/javascript">
+    function addUser() {
+
+        let user = {
+
+            FirstName: $("#firstname").val(),
+
+            LastName: $("#lastname").val(),
+
+            Email: $("#email").val(),
+
+            Password: $("#password").val(),
+
+            Role: $("#role").val(),
+
+            Active: 1
+
+        };
+        console.log(user);
+        let promise1 = axios.post("/Admin/AddUser", user);
+        promise1.then((response) => {
+            const result = response.data;
+            if (result != null) {
+                window.location.href = "/Admin/ShowAllUser";
+
+            }
+        });
+    }
+
+</script>

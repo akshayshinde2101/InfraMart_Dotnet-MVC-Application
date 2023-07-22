@@ -1,0 +1,73 @@
+﻿@using Newtonsoft.Json;
+
+@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<style>
+
+</style>
+<link rel="stylesheet" href="~/css/ViewAll.css" asp-append-version="true" />
+<button class="btn btn-outline-primary btn-sm mt-2" type="button" onclick="showcart()">Show Cart</button>
+@{
+    List<Product> Prodlist = ViewData["products"] as List<Product>;
+    foreach (Product prod in Prodlist) 
+    {
+        <div class="container mt-5 mb-5">
+            <div class="d-flex justify-content-center row">
+                <div class="col-md-10">
+                    <div class="row p-2 bg-white border rounded">
+
+                        <div class="col-md-3 mt-1"><img class="img-fluid img-responsive rounded product-image" src="~/Images/@prod.ProductImage"></div>
+                        <div class="col-md-6 mt-1">
+
+                            <div class="mt-1 mb-1 spec-1"><span> productId : @prod.ProductId</span><span></span><span></span><span></span><span><br></span></div>
+                            <div class="mt-1 mb-1 spec-1"><span></span><span></span><span></span><span></span><span><br></span></div>
+                            <h5>Product Name : @prod.ProductName</h5>
+                            <p>@prod.ProductDescription<br><br></p>
+                           
+                        </div>
+                        <div class="align-items-center align-content-center col-md-3 border-left mt-1">
+                            <div class="d-flex flex-row align-items-center">
+                                <h4 class="mr-1">Price :- ₹ @prod.ProductPrice</h4><span class="strike-text"></span>
+                            </div>
+                            <h6 class="text-success"></h6>
+                            <div class="d-flex flex-column mt-4"><button class="btn btn-outline-primary btn-sm mt-2" type="button" onclick="addCart(@prod.ProductId)">Add to Cart</button></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    }
+
+}
+<script type="text/javascript">
+        var productList = new Array()
+    function addCart(Id) {
+        id=Id;
+        productList.push(id);
+        console.log(productList);
+        
+    };
+    function showcart(){
+        
+        console.log("showcart function call");
+        let promise1 = axios.post("/Cart/AddToCart", productList);
+        promise1.then((response) => {
+               var result = response.data;
+
+            if (result != null) {
+                console.log(result);
+                window.location.href = "/Cart/ShowCart";
+                    }
+        });
+        promise1.catch((error) => {
+            alert("Please Login First");
+        });
+    }
+</script>

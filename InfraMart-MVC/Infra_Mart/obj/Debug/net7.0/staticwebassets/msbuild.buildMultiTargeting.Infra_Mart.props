@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Infra_Mart.props" />
+</Project>

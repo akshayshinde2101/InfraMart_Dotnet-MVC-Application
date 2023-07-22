@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "ShowAllUser";
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+<style>
+    .body2 {
+        font: bold;
+    }
+</style>
+
+<body class="body2">
+    <form>
+        <table class="table">
+            <tr>
+                <th>UserID</th>
+                <th>User FirstName</th>
+                <th>User LastName</th>
+                <th>User Email</th>
+                <th>User RegistrationDate</th>
+                <th>User Role</th>
+                <th>Action</th>
+
+            </tr>
+            <tbody>
+                @{
+                    List<User> userlist = ViewData["userlist"] as List<User>;
+                    foreach (User u in userlist)
+                    {
+                        <tr>
+                            <td>@u.UserId</td>
+                            <td>@u.FirstName</td>
+                            <td>@u.LastName</td>
+                            <td>@u.Email</td>
+                            <td>@u.RegistrationDate</td>
+                            <td>@u.Role</td>
+                            <td><a href="" onclick="deleteuser(@u.UserId)">Delete</a></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </form>
+    
+</body>
+<script type="text/javascript">
+
+    function deleteuser(id) {
+
+        let user = {
+            UserId: id
+        };
+        console.log(user);
+        let promise = axios.post("/Admin/DeleteUser", user);
+        promise.then((response) => {
+            const result = response.data;
+            console.log(result);
+            if (result == "user-delete") {
+                window.location.href = "/Admin/ShowAllUser";
+            }
+            else if (result == "Not-Found")
+            {
+                alert("User Not Found");
+            }
+        });
+    }
+</script>

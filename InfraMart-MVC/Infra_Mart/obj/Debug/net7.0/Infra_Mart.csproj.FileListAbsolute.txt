@@ -1,0 +1,508 @@
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.staticwebassets.runtime.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.exe
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.deps.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.runtimeconfig.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Infra_Mart.pdb
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.AssemblyInfo.cs
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.RazorAssemblyInfo.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.RazorAssemblyInfo.cs
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.Infra_Mart.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.build.Infra_Mart.props
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Infra_Mart.props
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Infra_Mart.props
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\scopedcss\bundle\Infra_Mart.styles.css
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\scopedcss\projectbundle\Infra_Mart.bundle.scp.css
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\refint\Infra_Mart.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.pdb
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.genruntimeconfig.cache
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\ref\Infra_Mart.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.CopyComplete
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ZstdNet.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\comerr64.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\gssapi64.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\k5sprt64.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\krb5_64.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\krbcc64.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Humanizer.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.Build.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Common.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Configuration.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Frameworks.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.LibraryModel.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Packaging.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.ProjectModel.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Protocol.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\NuGet.Versioning.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Composition.Convention.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Composition.Hosting.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Composition.Runtime.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Composition.TypedParts.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Desktop\Infra_MartDotnet\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\appsettings.Development.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\appsettings.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.staticwebassets.runtime.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.exe
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.deps.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.runtimeconfig.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Infra_Mart.pdb
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Google.Protobuf.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Humanizer.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.Build.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.Build.Framework.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Features.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Razor.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.DiaSymReader.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.NET.StringTools.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\dotnet-aspnet-codegenerator-design.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\MySql.Data.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ZstdNet.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\comerr64.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\gssapi64.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\k5sprt64.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\krb5_64.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\krbcc64.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\MySql.EntityFrameworkCore.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\Newtonsoft.Json.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Common.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Configuration.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.DependencyResolver.Core.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Frameworks.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.LibraryModel.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Packaging.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.ProjectModel.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Protocol.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\NuGet.Versioning.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.CodeDom.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Composition.AttributedModel.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Composition.Convention.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Composition.Hosting.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Composition.Runtime.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Composition.TypedParts.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Reflection.MetadataLoadContext.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.AssemblyReference.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.GeneratedMSBuildEditorConfig.editorconfig
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.AssemblyInfoInputs.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.AssemblyInfo.cs
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.CoreCompileInputs.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.MvcApplicationPartsAssemblyInfo.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.RazorAssemblyInfo.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.RazorAssemblyInfo.cs
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.Infra_Mart.Microsoft.AspNetCore.StaticWebAssets.props
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.build.Infra_Mart.props
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Infra_Mart.props
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Infra_Mart.props
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets.pack.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets.build.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\staticwebassets.development.json
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\scopedcss\bundle\Infra_Mart.styles.css
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\scopedcss\projectbundle\Infra_Mart.bundle.scp.css
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.csproj.CopyComplete
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\refint\Infra_Mart.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.pdb
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\Infra_Mart.genruntimeconfig.cache
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\obj\Debug\net7.0\ref\Infra_Mart.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\af\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ar\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\az\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\bg\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\bn-BD\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\cs\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\da\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\de\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\el\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\es\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fa\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fi-FI\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\fr-BE\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\he\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\hr\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\hu\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\hy\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\id\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\is\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\it\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ja\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ko-KR\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ku\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\lv\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ms-MY\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\mt\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\nb\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\nb-NO\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\nl\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pl\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\pt\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ro\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\ru\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\sk\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\sl\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\sr\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\sr-Latn\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\sv\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\th-TH\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\tr\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\uk\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\vi\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-CN\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hans\Humanizer.resources.dll
+D:\PG-DAC @AKSHAY\#Dotnet_InfraMart\InfraMart-MVC\Infra_Mart\bin\Debug\net7.0\zh-Hant\Humanizer.resources.dll

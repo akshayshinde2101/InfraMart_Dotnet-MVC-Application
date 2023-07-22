@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Controllers",
+    "\\DAL",
+    "\\DAL\\Interfaces",
+    "\\DAL\\Repository",
+    "\\Models",
+    "\\SAL",
+    "\\SAL\\Interfaces",
+    "\\SAL\\Services"
+  ],
+  "SelectedNode": "\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

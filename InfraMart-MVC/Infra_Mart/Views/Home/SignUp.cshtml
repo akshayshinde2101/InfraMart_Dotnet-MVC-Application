@@ -1,0 +1,74 @@
+﻿@{
+    ViewData["Title"] = "Login Page";
+}
+<link rel="stylesheet" href="~/css/SignUp.css" asp-append-version="true" />
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+
+
+<hr />
+<center>
+<div class="row" >
+        <div class="col-md-4" id="maindiv">
+        <form id="studenteForm" novalidate class="needs-validation">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label class="control-label"></label>
+               FirstName:   <input type="text" class="form-control" id="firstname" required />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"></label>
+                LastName:   <input type="text" class="form-control" id="lastname" required />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"></label>
+                Email:   <input type="email" class="form-control" id="email" />
+            </div>
+
+            <div class="form-group">
+                <label class="control-label"></label>
+                Password:   <input type="password" class="form-control" id="password" />
+            </div>
+
+            <div class="form-group">
+                <button type="button"  id="submituser" class="btn btn-primary" onclick="addUser()">Submit</button>
+                
+            </div>
+        </form>
+    </div>
+</div>
+</center>
+<script type="text/javascript">
+    function addUser() {
+
+        let user = {
+
+            FirstName: $("#firstname").val(),
+
+            LastName: $("#lastname").val(),
+
+            Email: $("#email").val(),
+
+            Password: $("#password").val(),
+
+            Role: "user",
+
+            Active: 1
+
+        };
+        console.log(user);
+        let promise1 = axios.post("/Home/Register", user);
+        promise1.then((response) => {
+            const result = response.data;
+
+            if(result!=null)
+            {
+
+            window.location.href="/Home/Login";
+            }
+        });
+    }
+
+</script>

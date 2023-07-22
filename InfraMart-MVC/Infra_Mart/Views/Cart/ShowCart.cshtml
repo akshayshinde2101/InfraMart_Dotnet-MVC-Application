@@ -1,0 +1,54 @@
+﻿
+@{
+    ViewData["Title"] = "ShowCart";
+}
+
+
+<table class="table">
+    <tr>
+        <th>Product-Id</th>
+        <th>Product-Name</th>
+        <th>Quantity</th>
+        <th>Total Amount</th>
+
+
+    </tr>
+    <tbody>
+        @{
+            List<Product> cartlist = ViewData["CartProducts"] as List<Product>;
+            foreach (Product prod in cartlist)
+            {
+
+                <tr>
+                    <td>@prod.ProductId</td>
+                    <td>@prod.ProductName</td>
+                    <td>
+                       <input type="number" id="quantity" name="quantity"/>
+                    </td>
+                    <td>
+                        <p type="number" id="amount" name="amount"></p>
+                        <button type="button"  onclick="calculaPrice(@prod.ProductPrice)">Calculate</button>
+                        
+                    </td>
+                </tr>
+
+            }
+        }
+    </tbody>
+</table>
+<script type="text/javascript">
+
+    function calculaPrice(price){
+        let ProductPrice=price;
+        let ProductQuantity = $("#quantity").val();
+        let TotalAmount=(ProductPrice*ProductQuantity);
+        $("#amount").html(TotalAmount);
+        console.log(ProductPrice);
+        console.log(ProductQuantity);
+        console.log(TotalAmount);
+    }
+  
+   
+    
+</script>
+

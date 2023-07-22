@@ -1,0 +1,47 @@
+﻿@{
+    // ViewData["Title"] = "AddCategory";
+}
+
+<link rel="stylesheet" href="~/css/AddCategory.css" asp-append-version="true" />
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<center>
+    <div id="caregorydiv">
+        <form method="post" action="/ForgotPassword/ForgotPass">
+
+            <div class="form-outline mb-4">
+                <label class="form-label" for="form3Example3">Enter Your Email </label>
+                <input type="email" id="email" class="form-control" name="email" />
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block mb-4">
+                Get-OTP
+            </button>
+        </form>
+    </div>
+</center>
+<script type="text/javascript">
+   
+    function GetUser() {
+
+        console.log("GetUser function call");
+        let email = $("#email").val();
+        let email2 = JSON.stringify(email);
+        console.log(email);
+        console.log(email2);
+        let promise1 = axios.post("/ForgotPassword/ForgotPass",email2);
+        promise1.then((response) => {
+            var result = response.data;
+            console.log(result);
+            if (result != null) {
+
+                console.log("OTP SEND SUCCESFULLY ON YOUR MAIL"); 
+                
+                window.location.href = "/ForgotPassword/VerifyOtp";
+            }
+        });
+   
+    }
+</script>
+
